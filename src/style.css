@@ -1,0 +1,12 @@
+.guest-btn {
+    display: block;
+    padding: 5px;
+    margin: 10px;
+    color: blueviolet;
+}
+
+.guest-input {
+    margin: 5px;
+    border:1px solid lightblue;
+    padding: 5px;
+}
