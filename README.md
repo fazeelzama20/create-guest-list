@@ -1,5 +1,10 @@
 # create-guest-list
 
+To run the project 
+  npm i (install npm dependencies)
+then
+npm start 
+
 Inside that directory, you can run several commands:
 
   yarn start
